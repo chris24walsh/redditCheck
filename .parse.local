@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "CheckClue": {
+      "applicationId": "kTjMzfwO1RImgh30ci3Y3YQ0u6gtX3DNsfsxV6ST"
+    },
+    "_default": {
+      "link": "CheckClue"
+    }
+  }
+}
